@@ -59,6 +59,41 @@ $ cd hatayanarsi
 # done.
 ```
 
+# BAZI KODLAR VE ANLAMLARI - FEATURES
+
+```php
+<?php
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+$successmessage = false;
+$errormessages = false;
+
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "hatayanarsi";
+
+try {
+    $pdo = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
+    $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+} catch (PDOException $e) {
+    echo 'Connection failed: ' . $e->getMessage();
+    exit();
+}
+
+// Kitap verilerini çek
+$stmt = $pdo->query("SELECT kitapAd, yayin, baskiNo, baskiYil, alimFiyati, yazar, fotograf FROM kitapbagis WHERE onayDurumu = 'Onaylandı'");
+$books = $stmt->fetchAll(PDO::FETCH_ASSOC);
+
+// Burada, veritabanında adminin onayladığı verileri çekip books değişkenine atıyoruz. daha sonrasında booksların içerisindeki tüm satırları tek tek alabileceğiz.
+
+?>
+```
+
+!!important!!
+admin panel-> esinjua@gmail.com & esin123
+
 # PROJEDEKİ BAZI GÜZELLİKLER.
 
 - [Bootstrap](https://getbootstrap.com)
