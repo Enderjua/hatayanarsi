@@ -41,3 +41,28 @@ Blogları, Alanlarına Göre Ayırma                | ![](https://demo.gethugoth
 Üyelerin, Ücretsiz Kitap Satın Alabilmeleri                    | ![](https://demo.gethugothemes.com/icons/x.png)    | ![](https://demo.gethugothemes.com/icons/tick.png)    |
 Üyelerin, Reklamsız Bir Website için Premium Ayrıcalıkları                                       | ![](https://demo.gethugothemes.com/icons/x.png)    | ![](https://demo.gethugothemes.com/icons/tick.png) |
 Üyelerin, Sistemdeki Diğer Yardımlaşma ve Dayanışma Olanaklarından Yararlanmaları                                        | ![](https://demo.gethugothemes.com/icons/x.png)    | ![](https://demo.gethugothemes.com/icons/tick.png) |
+
+
+# CİHAZA KURULUM - LOCAL DEVELOPMENT
+
+```bash
+# clone the repository
+git clone https://github.com/Enderjua/hatayanarsi.git
+
+# cd in the project directory
+$ cd hatayanarsi
+
+# start xampp
+# create a mysql, name = hatayanarsi, password = ''
+# look hatayanarsi/sql dict. have hatayanarsi.sql
+# import hatayanarsi.sql on hatayanarsi
+# done.
+```
+
+# PROJEDEKİ BAZI GÜZELLİKLER.
+
+- [Bootstrap](https://getbootstrap.com)
+- [Jquery](https://jquery.com)
+- [FuseJs](https://fusejs.io)
+- [Line awesome](https://icons8.com/line-awesome)
+- [Google Fonts](https://fonts.google.com/)
