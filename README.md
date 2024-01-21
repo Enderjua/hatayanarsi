@@ -5,5 +5,5 @@ enderjua@gmail.com
 <br>
 &
 <br>
-This project is incomplete. The last update was on January 20, 2024. It is an open-source software project aimed at completion, with no plans for implementation. It is designed to be forked and developed by the community. This free software project can be used as a blog for a different purpose if desired or used for the same purpose independently of its name. Updates will be shared here with each passing update. Please reach out to us if community development is initiated at enderjua@gmail.com
+This project is incomplete. The last update was on January 20, 2024. It is an open-source software project aimed at completion, **with no plans for implementation.** It is designed to be forked and developed by the community. This free software project can be used as a blog for a different purpose if desired or used for the same purpose independently of its name. Updates will be shared here with each passing update. Please reach out to us if community development is initiated at enderjua@gmail.com
 
