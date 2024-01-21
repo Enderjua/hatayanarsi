@@ -19,7 +19,7 @@ This project is incomplete. The last update was on January 20, 2024. It is an op
 
 <video controls src="https://raw.githubusercontent.com/Enderjua/hatayanarsi/main/hatayanarsi.mp4"></video>
 <video width="400" controls>
-  <source src="https://raw.githubusercontent.com/Enderjua/hatayanarsi/main/hatayanarsi.mp4" type="video/mp4">
+  <source src="hatayanarsi.mp4" type="video/mp4">
 </video>
 
 
