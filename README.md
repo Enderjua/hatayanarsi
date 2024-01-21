@@ -17,10 +17,6 @@ This project is incomplete. The last update was on January 20, 2024. It is an op
 <br>
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-<video controls src="https://raw.githubusercontent.com/Enderjua/hatayanarsi/main/hatayanarsi.mp4"></video>
-<video width="400" controls>
-  <source src="https://github.com/enderjua/hatayanarsi/hatayanarsi.mp4" type="video/mp4">
-</video>
-
+# Demo Videosu - Demo Videos
 
 [![Video](https://raw.githubusercontent.com/Enderjua/hatayanarsi/main/hatayanarsi.mp4)](https://raw.githubusercontent.com/Enderjua/hatayanarsi/main/hatayanarsi.mp4)
