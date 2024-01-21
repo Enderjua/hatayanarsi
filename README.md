@@ -101,3 +101,4 @@ admin panel-> esinjua@gmail.com & esin123
 - [FuseJs](https://fusejs.io)
 - [Line awesome](https://icons8.com/line-awesome)
 - [Google Fonts](https://fonts.google.com/)
+If you have any concerns or unclear places, please reach me out at enderjua@gmail.com! Wishing you happy returns, a year full of Science, Technology and Flutter! (of course with your loved one by your side.)
