@@ -19,9 +19,25 @@ This project is incomplete. The last update was on January 20, 2024. It is an op
 
 # DEMO VİDEOSU
 
-https://user-images.githubusercontent.com/Enderjua/hatayanarsi/main/hatayanarsi.mp4
-
 [![Video](https://raw.githubusercontent.com/Enderjua/hatayanarsi/main/hatayanarsi.mp4)](https://raw.githubusercontent.com/Enderjua/hatayanarsi/main/hatayanarsi.mp4)
 
 # PROJEDEKİ EKSİKLER - MISSING COMPONENTS IN THE PROJECT
 
+Ana Proje | [Eklendi](https://github.com/gethugothemes/bookworm-light)  | [Eklenecek](https://gethugothemes.com/products/bookworm/?ref=github) |
+:------------ |    :----:    |     :----:    |
+Blog Paylaşımı ve Bu Yolda Gereken PHP kontrolleri, SQL izinleri                   | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Blog Paylaşımlarını Denetleme, Düzenleme           | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Yetkiye Göre, Yazarın Blogları ve Tüm Yöneticilere Blog Gösterimi                 | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Yetkili Profili Düzenleme           | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Yetkili Profiline Göre Arayüz Ekranı              | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Bloglara Yorum Ekleme                        | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Bloglarla İlgili Detayları Depolama    | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Kitap Bağışı için Kullanıcı Formu                        | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Kitap Bağışı İsteklerini Görüntüleme, Düzenleme ve Kullanıcılara Sunma                   | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Blogları, Alanlarına Göre Ayırma                | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Üyelik Sistemi                      | ![](https://demo.gethugothemes.com/icons/x.png)    | ![](https://demo.gethugothemes.com/icons/tick.png)    |
+Üyelik Sistemine Göre Yorumları Ayarlama    | ![](https://demo.gethugothemes.com/icons/x.png)    | ![](https://demo.gethugothemes.com/icons/tick.png)    |
+Üyelerin, Yetkili Olmak için İstek Gönderebilmeleri                    | ![](https://demo.gethugothemes.com/icons/x.png)    | ![](https://demo.gethugothemes.com/icons/tick.png)    |
+Üyelerin, Ücretsiz Kitap Satın Alabilmeleri                    | ![](https://demo.gethugothemes.com/icons/x.png)    | ![](https://demo.gethugothemes.com/icons/tick.png)    |
+Üyelerin, Reklamsız Bir Website için Premium Ayrıcalıkları                                       | ![](https://demo.gethugothemes.com/icons/x.png)    | ![](https://demo.gethugothemes.com/icons/tick.png) |
+Üyelerin, Sistemdeki Diğer Yardımlaşma ve Dayanışma Olanaklarından Yararlanmaları                                        | ![](https://demo.gethugothemes.com/icons/x.png)    | ![](https://demo.gethugothemes.com/icons/tick.png) |
