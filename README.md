@@ -17,6 +17,11 @@ This project is incomplete. The last update was on January 20, 2024. It is an op
 <br>
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-# Demo Videosu - Demo Videos
+# DEMO VİDEOSU
+
+https://user-images.githubusercontent.com/Enderjua/hatayanarsi/main/hatayanarsi.mp4
 
 [![Video](https://raw.githubusercontent.com/Enderjua/hatayanarsi/main/hatayanarsi.mp4)](https://raw.githubusercontent.com/Enderjua/hatayanarsi/main/hatayanarsi.mp4)
+
+# PROJEDEKİ EKSİKLER - MISSING COMPONENTS IN THE PROJECT
+
