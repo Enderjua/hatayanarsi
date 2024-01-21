@@ -18,3 +18,5 @@ This project is incomplete. The last update was on January 20, 2024. It is an op
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 <video controls src="https://raw.githubusercontent.com/Enderjua/hatayanarsi/main/hatayanarsi.mp4"></video>
+
+[![Video](https://raw.githubusercontent.com/Enderjua/hatayanarsi/main/hatayanarsi.mp4)](https://raw.githubusercontent.com/Enderjua/hatayanarsi/main/hatayanarsi.mp4)
