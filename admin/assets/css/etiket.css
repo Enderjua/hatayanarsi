@@ -1,0 +1,28 @@
+.tag-container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.tag {
+    display: flex;
+    align-items: center;
+    background-color: #f1f1f1;
+    border-radius: 20px;
+    padding: 5px 10px;
+    margin: 5px 5px 5px 0;
+}
+
+.tag-input {
+    flex: 1;
+    border: none;
+    outline: none;
+    padding: 5px 0;
+}
+
+.tag-close {
+    margin-left: 5px;
+    cursor: pointer;
+}

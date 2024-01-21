@@ -1,0 +1,51 @@
+body#layout{background:#f9f9f9;border:3px dashed #444;border-radius:4px;display:table;table-layout:fixed;margin:0 auto 20px;font-family:Roboto,sans-serif;padding:0;position:relative;width:1000px}
+body#layout div.section{background:transparent;border:0;margin:0;padding:16px 24px}
+body#layout div.section h4,body#layout div.section .add_widget .add-icon,body#layout .top_bg,body#layout .bottom_bg{display:none}
+body#layout div.layout-title,body#layout div.layout-widget-description{text-overflow:ellipsis;overflow:hidden;white-space:nowrap}
+body#layout div.section .add_widget{border:0;margin:0;padding:0}
+body#layout div.section .add_widget a{border:3px dashed #007bff;border-radius:500px;margin:0;padding:0 16px;text-align:center;height:50px;line-height:44px;color:#007bff;position:relative}
+body#layout div.section .add_widget a:hover{background:#007bff}
+body#layout div.section .add_widget a:before{content:'';background-color:transparent;background-image:url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNDvUHGlO-89k0RJtFUEjdiN6y9DfC6r5XqpRhEBntLALuhgSo88IpcrAzm2GenXO9Ryx13iTHX2Oxa5sZ_z199RERA8sNzRBVQR8awIPayWzFMXoKKfJTHNGzwtMpIqKCWKTMYIxL/s1600/add_24dp.png');background-repeat:no-repeat;background-position:center;width:24px;height:24px;top:0;left:100%;display:inline-block;vertical-align:middle;margin-right:10px}
+body#layout div.section .add_widget a:hover:before{background-image:url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXmsg8k_6u5iOfAkDVCY4ZOboruY1tBvBmfCdnY6bj6LZcBCxSbfuEU6afY985CpLWt9nuAmt0I9YW_Yg9GeXVeqcUkQHhobVc7-wlmkfDPOflYG89-0UK-jBB2Es90HzyVNM4wAdl/s1600/add_white_24dp.png')}
+body#layout div.section .add_widget a:hover{color:#fff;text-decoration:none}
+body#layout div.section .widget-content{border-radius:500px;padding:10px 20px;background:#fff}
+body#layout div.section .layout-widget-state{position:absolute;top:50%;left:20px;margin-top:-12px}
+body#layout div.section .editlink.icon{position:absolute;top:50%;right:20px;margin-top:-12px}
+body#layout div.section .Blog .widget-content{border-radius:5px}
+body#layout div.section .Blog .layout-widget-state{position:relative;top:auto;left:auto;margin-top:0}
+body#layout div.section .Blog .editlink.icon{right:16px;top:16px;margin-top:0}
+body#layout div.section .draggable-widget .widget-wrap3,body#layout div.section .draggable-widget .widget-wrap2{background:none;margin-left:0}
+body#layout div.section .draggable-widget{margin-left:12px;position:relative}
+body#layout div.section .draggable-widget{z-index:1}
+body#layout div.section .draggable-widget:before{background-image:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfZV_BjDJHXOTHumxZfEWN7EvMEs6lHNSjqJYGZaC-w3kjh7vxNZei4hLx3c-73bDNV5YmFTEgdxuE9naj8i8amz6LzuZVKdU4zk3nBBA00bgfifD-RDxg0e8nPMKDCnWyxpzJ4MRw/s1600/draggable.png);background-color:#bbb;background-repeat:no-repeat;background-position:center;border-radius:500px;content:'';position:absolute;width:12px;top:0;left:-12px;bottom:0;z-index:2}
+body#layout div.section div.widget,body#layout div.section > div{margin-top:18px}
+body#layout div.section .dr_active{border:3px dashed #666;background:transparent;border-radius:500px}
+body#layout div.section div.widget.el_active{margin-top:0}
+body#layout .hidden{display:inherit!important}
+body#layout .uk-container{width:auto}
+body#layout .wrapper{position:relative;width:100%;z-index:1}
+body#layout header{background-color:#ae1e51;background-image:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ50t-5001RSY3PI00HqVJxwxAyevOPRR_jfQS2MoiDV4I9_L_7UIkwT_YE1LPHUVkLJ2OIm-OyuCpMD7HnTxV16n6vqFE5J4YrFTB_UpzCgXpQAPCLqXyer6bRhWs-iNvN4LelPIwByc/s1600/logo_1x.png);background-repeat:no-repeat;background-position:24px 15px;border-left:3px dashed #444;padding:85px 0 50px;margin-bottom:0;margin-left:317px}
+body#layout header:before,body#layout main:before,body#layout footer:before,body#layout .sidenav:before{content:"Header Content";font-size:18px;display:block;padding:20px 24px 0;color:#fff}
+body#layout header .topnav_wrapper{padding-bottom:0}
+body#layout header .topnav_wrapper div.section > div{margin-top:0}
+body#layout header div.section{padding:20px 24px}
+body#layout header .mainnav_wrapper div.section .dropregion{display:none}
+body#layout header .mainnav_wrapper .mainnav{display:table;table-layout:fixed;padding:0 24px;width:100%}
+body#layout header .mainnav_wrapper .mainnav > div{display:table-cell;width:50%;padding:0 12px}
+body#layout header .mainnav_wrapper .mainnav > div.Header{padding-left:0}
+body#layout header .mainnav_wrapper .mainnav > div.HTML{padding-right:0}
+body#layout main{padding:20px 0 30px;margin-left:317px;border-left:3px dashed #444;border-top:3px dashed #444}
+body#layout main:before{content:"Main Content";color:inherit;padding-bottom:20px}
+body#layout main .uk-container,body#layout main .uk-container .uk-grid,body#layout .topgrid,body#layout .maingrid{display:table;table-layout:fixed;width:100%}
+body#layout main .uk-container{margin-top:0;margin-bottom:0}
+body#layout main .uk-container > div,body#layout main .uk-container .uk-grid > div,body#layout .maingrid > div{display:table-cell;width:50%}
+body#layout main .uk-container > div.full_ads_section:before,body#layout main .uk-container > div.main_slider_section:before,body#layout main .uk-container > div.main:before,body#layout main .uk-container .uk-grid > div > div.main:before{content:'Blog &  Labels Filter Gadgets';font-size:15px}
+body#layout main .uk-container > div.full_ads_section:before{content:'Full Size Ads Gadgets';margin-bottom:18px;display:block}
+body#layout main .uk-container > div.main_slider_section:before{content:'Home Slider Gadget'}
+body#layout main .uk-container > div.sidebar:before,body#layout main .uk-container .uk-grid > div.sidebar:before{content:'Sidebar Gadgets';margin-bottom:18px;display:block;font-size:15px}
+body#layout footer{padding:20px 0 20px;border-top:3px dashed #444}
+body#layout footer:before{content:"Footer Content";color:inherit;padding-bottom:20px}
+body#layout .topgrid{padding:0 12px}
+body#layout .topgrid > div{display:table-cell;width:25%;padding:16px 12px}
+body#layout .sidenav{position:absolute;padding:85px 0 20px;left:0;top:0;z-index:2;width:320px}
+body#layout .sidenav:before{content:"Side Gadgets";color:inherit;padding:20px 24px}
